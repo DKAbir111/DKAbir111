@@ -1,10 +1,10 @@
-
-![Profile Image](https://i.ibb.co.com/NYzqHT0/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 # 👋 Hi, I'm **Darun Karas Abir**  
 _A high-achieving MERN stack developer with a CGPA of 3.90, specializing in software development and quality assurance. Currently interning as a Software Engineer at Business Automation Limited._
 
+![Profile Image](https://i.ibb.co.com/NYzqHT0/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+
 ### 📍 Location: Dhaka, Bangladesh  
-📧 **Email**: darun15-14188@diu.edu.bd  
+📧 **Email**: [darun15-14188@diu.edu.bd](mailto:darun15-14188@diu.edu.bd)  
 📞 **Phone**: +8801994494143  
 🌐 **Portfolio**: [visionary-zuccutto-f34f8c.netlify.app](https://visionary-zuccutto-f34f8c.netlify.app)  
 🔗 **LinkedIn**: [linkedin.com/in/darun-karas-abir](https://linkedin.com/in/darun-karas-abir-48ba14212)  
@@ -146,3 +146,17 @@ Feel free to reach out to me on **[LinkedIn](https://linkedin.com/in/darun-karas
 
 ---
 
+### 🏆 Achievements
+
+- 🏅 **Top Contributor** to open-source projects  
+- 🎯 **Consistent Contributor** (200+ commits/month)  
+- 🎓 **Certified in MERN Stack and Digital Product Management**
+
+---
+
+### 🏆 Fun Fact
+
+- **🏅 Competitive Programmer**: Solved over **200+ problems** on platforms like **CodeForces**, **URI**, and **UVa**.  
+- **🎯 Passionate Debater**: A former **Parliamentary Debater**, always looking for innovative solutions.
+
+---
