@@ -122,10 +122,10 @@ Business Automation Limited | 02/2024 - Present
 
 ## 📊 GitHub Stats
 
-[![Darun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKAbir111&show_icons=true&count_private=true&hide_title=true)](https://github.com/DKAbir111)
+[![Darun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKAbir111&show_icons=true&count_private=true&hide_title=true&cache_seconds=1800)](https://github.com/DKAbir111)
+
 
 ## 🔥 GitHub Streaks
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKAbir111&theme=radical)](https://github.com/DKAbir111)
 
 ---
