@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Darun Karas Abir**  
 _A high-achieving MERN stack developer with a CGPA of 3.90, specializing in software development and quality assurance. Currently interning as a Software Engineer at Business Automation Limited._
 
-![Profile Image](https://i.ibb.co.com/NYzqHT0/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![Profile Image](https://i.ibb.co.com/gV4TM69/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 ### 📍 Location: Dhaka, Bangladesh  
 📧 **Email**: [darun15-14188@diu.edu.bd](mailto:darun15-14188@diu.edu.bd)  
