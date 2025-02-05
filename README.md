@@ -9,7 +9,6 @@ _A high-achieving MERN stack developer with a CGPA of 3.90, specializing in soft
 🌐 **Portfolio**: [visionary-zuccutto-f34f8c.netlify.app](https://visionary-zuccutto-f34f8c.netlify.app)  
 🔗 **LinkedIn**: [linkedin.com/in/darun-karas-abir](https://linkedin.com/in/darun-karas-abir-48ba14212)  
 🐙 **GitHub**: [github.com/DKAbir111](https://github.com/DKAbir111)
-🌐 **Location**: Dhaka, Bangladesh 
 
 ---
 
