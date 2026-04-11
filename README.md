@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Darun Karas Abir**  
 
-**CSE graduate** with a **CGPA of 3.90** and over **1.5 year of professional experience** in software development. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with modern technologies like **Next.js, Nest.js, Prisma, and PostgreSQL**. Currently working as a **Software Engineer at Info Inlet (03/2025 – Present)**, where I take full ownership of the **Software Development Life Cycle (SDLC)**—from planning and architecture to development, testing, and deployment.
+**CSE graduate** with a **CGPA of 3.9** and over **1.5 year of professional experience** in software development. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with modern technologies like **Next.js, Nest.js, Prisma, and PostgreSQL**. Currently working as a **Software Engineer at Info Inlet (03/2025 – Present)**, where I take full ownership of the **Software Development Life Cycle (SDLC)**—from planning and architecture to development, testing, and deployment.
 
 I am proficient in **TypeScript, Python, C, and C++**, and have working knowledge of **AWS, Docker, and Cloudflare**. I’m passionate about building **scalable, efficient, and high-quality software solutions**.
 
@@ -22,7 +22,7 @@ I am proficient in **TypeScript, Python, C, and C++**, and have working knowledg
 Daffodil International University | 01/2020 - 03/2024
 - Hands-on experience in data structures, algorithms, competitive programming (C, C++, Python, Java, JavaScript), AI, and Machine Learning.  
 - Active participation in the **Computer Programming Club** and **Natural Language Processing Club**.  
-- **CGPA**: 3.90
+- **CGPA**: 3.9
 
 ### **Higher Secondary School Certificate (Science)**  
 Rashed Khan Menon Model School and College | 05/2017 - 06/2019  
