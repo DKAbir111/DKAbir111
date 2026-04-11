@@ -94,16 +94,48 @@ Business Automation Limited | 02/2024 - Present
 
 ## 💻 Skills
 
-- **MERN Stack**: ReactJS, NodeJS, ExpressJS, MongoDB, TypeScript
-- **Web Development**: HTML5, CSS3, JavaScript, PHP, WordPress, MySQL
-- **CSS Frameworks**: TailwindCSS, Bootstrap, Material UI, DaisyUI
-- **Version Control**: Git, GitHub, Bitbucket
-- **Containerization**: Docker
-- **SQA**: Manual & Automated Testing (Selenium, TestNG, LoadRunner, JMeter), API Testing (Postman, Newman)
-- **Tools**: Figma, Pixso, Notion, Jira
-- **Programming Languages**: C, C++, Java, Python
-- **Cloud Services**: AWS (Familiar)
-- **Operating Systems**: Windows, Ubuntu, MacOS
+### 🚀 Front-End
+
+* **React**, **Next.js**, **TypeScript**, **JavaScript**
+* **TailwindCSS**, Context API, Redux, Zustand
+
+### ⚙️ Back-End
+
+* **NestJS**, **Express.js**
+* **PostgreSQL**, **MongoDB**, **Prisma ORM**, Firebase
+
+### 🧠 Programming Languages
+
+* **JavaScript**, **TypeScript**, **Python**, **C**, **C++**, **PHP**
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+* **Docker**, **AWS**, **Cloudflare**
+* Redis, SQS, CI/CD Pipelines
+
+### 🤖 AI & Modern Development
+
+* **AI Integration**, **RAG (Retrieval-Augmented Generation)**
+* Vector Databases, Embeddings
+* Tools: Cursor, Codex, Cloud Code
+
+### 🛠️ Tools & Platforms
+
+* Git, GitHub
+* Postman, Lighthouse
+* Figma, Pixso
+* Notion, Jira
+
+### 💡 Core Concepts
+
+* **SDLC (Agile Methodologies)**
+* **OOP, DSA**
+* Machine Learning, Deep Learning
+
+### 🖥️ Operating Systems
+
+* Windows, Ubuntu, macOS, Red Hat Linux
+
 
 ---
 
