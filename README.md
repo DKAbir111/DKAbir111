@@ -1,13 +1,19 @@
 # 👋 Hi, I'm **Darun Karas Abir**  
-_A high-achieving MERN stack developer with a CGPA of 3.90, specializing in software development and quality assurance. Currently interning as a Software Engineer at Business Automation Limited._
+
+A highly motivated **CSE graduate** with a **CGPA of 3.90** and over **1.5 year of professional experience** in software development. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with modern technologies like **Next.js, Nest.js, Prisma, and PostgreSQL**.
+
+Currently working as a **Software Engineer at Info Inlet (03/2025 – Present)**, where I take full ownership of the **Software Development Life Cycle (SDLC)**—from planning and architecture to development, testing, and deployment.
+
+I am proficient in **TypeScript, Python, C, and C++**, and have working knowledge of **AWS, Docker, and Cloudflare**. I’m passionate about building **scalable, efficient, and high-quality software solutions**.
+
 
 ![Profile Image](https://i.ibb.co.com/gV4TM69/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 
 ### 📍 Location: Dhaka, Bangladesh  
-📧 **Email**: [darun15-14188@diu.edu.bd](mailto:darun15-14188@diu.edu.bd)  
+📧 **Email**: [darunkaras28111@gmail.com](mailto:darunkaras28111@gmail.com)  
 📞 **Phone**: +8801994494143  
 🌐 **Portfolio**: [visionary-zuccutto-f34f8c.netlify.app](https://visionary-zuccutto-f34f8c.netlify.app)  
-🔗 **LinkedIn**: [linkedin.com/in/darun-karas-abir](https://linkedin.com/in/darun-karas-abir-48ba14212)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/darun-karas-abir-36a24339b](https://www.linkedin.com/in/darun-karas-abir-36a24339b/)  
 🐙 **GitHub**: [github.com/DKAbir111](https://github.com/DKAbir111)
 
 ---
@@ -15,7 +21,7 @@ _A high-achieving MERN stack developer with a CGPA of 3.90, specializing in soft
 ## 🎓 Education
 
 ### **BSc in Computer Science & Engineering**  
-Daffodil International University | 01/2020 - Present  
+Daffodil International University | 01/2020 - 03/2024
 - Hands-on experience in data structures, algorithms, competitive programming (C, C++, Python, Java, JavaScript), AI, and Machine Learning.  
 - Active participation in the **Computer Programming Club** and **Natural Language Processing Club**.  
 - **CGPA**: 3.90
@@ -27,6 +33,30 @@ Rashed Khan Menon Model School and College | 05/2017 - 06/2019
 ---
 
 ## 💼 Professional Experience
+
+### **Software Engineer**
+
+**Info Inlet** | 03/2025 – Present
+
+**Achievements / Responsibilities:**
+
+* 🚀 Owned the **full Software Development Life Cycle (SDLC)** — from **planning and architecture** to **development, testing, and deployment**
+* 💻 Built scalable applications using **TypeScript, React.js, Next.js, Express.js, NestJS**
+* 🗄️ Designed and managed databases with **PostgreSQL, MongoDB**, and **Prisma ORM**
+* 🌍 Delivered **10+ production-grade projects** with **zero critical post-release issues** for **Japanese and international users**
+* ⚡ Reduced **deployment time by 50%** through **AI-assisted code review** and performance optimization
+* 🧠 Developed innovative platforms:
+
+  * **FluxEz (No-code)** → enabled **10× faster software development**
+  * **Fluxtrun (Automation)** → automated **50% of repetitive workflows**
+  * **ProAtOnce (AI)** → increased **marketing reach by 50%**
+* 🛠️ Ensured code quality, scalability, and maintainability following **best engineering practices**
+* 🤝 Collaborated across teams and contributed to **efficient delivery in a fast-paced environment**
+
+---
+
+✨ *Focused on building high-impact, scalable systems with clean and efficient code.*
+
 
 ### **Software Engineer Intern (Remote)**  
 Business Automation Limited | 02/2024 - Present  
