@@ -94,50 +94,6 @@ Business Automation Limited | 02/2024 - Present
 
 ## 💻 Skills
 
-### 🚀 Front-End
-
-* **React**, **Next.js**, **TypeScript**, **JavaScript**
-* **TailwindCSS**, Context API, Redux, Zustand
-
-### ⚙️ Back-End
-
-* **NestJS**, **Express.js**
-* **PostgreSQL**, **MongoDB**, **Prisma ORM**, Firebase
-
-### 🧠 Programming Languages
-
-* **JavaScript**, **TypeScript**, **Python**, **C**, **C++**, **PHP**
-
-### ☁️ Cloud, DevOps & Infrastructure
-
-* **Docker**, **AWS**, **Cloudflare**
-* Redis, SQS, CI/CD Pipelines
-
-### 🤖 AI & Modern Development
-
-* **AI Integration**, **RAG (Retrieval-Augmented Generation)**
-* Vector Databases, Embeddings
-* Tools: Cursor, Codex, Cloud Code
-
-### 🛠️ Tools & Platforms
-
-* Git, GitHub
-* Postman, Lighthouse
-* Figma, Pixso
-* Notion, Jira
-
-### 💡 Core Concepts
-
-* **SDLC (Agile Methodologies)**
-* **OOP, DSA**
-* Machine Learning, Deep Learning
-
-### 🖥️ Operating Systems
-
-* Windows, Ubuntu, macOS, Red Hat Linux
-
-## 💻 Skills
-
 ### 🎨 Front-End
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
