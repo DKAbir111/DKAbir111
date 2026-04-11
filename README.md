@@ -1,8 +1,6 @@
 # 👋 Hi, I'm **Darun Karas Abir**  
 
-A highly motivated **CSE graduate** with a **CGPA of 3.90** and over **1.5 year of professional experience** in software development. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with modern technologies like **Next.js, Nest.js, Prisma, and PostgreSQL**.
-
-Currently working as a **Software Engineer at Info Inlet (03/2025 – Present)**, where I take full ownership of the **Software Development Life Cycle (SDLC)**—from planning and architecture to development, testing, and deployment.
+**CSE graduate** with a **CGPA of 3.90** and over **1.5 year of professional experience** in software development. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with modern technologies like **Next.js, Nest.js, Prisma, and PostgreSQL**. Currently working as a **Software Engineer at Info Inlet (03/2025 – Present)**, where I take full ownership of the **Software Development Life Cycle (SDLC)**—from planning and architecture to development, testing, and deployment.
 
 I am proficient in **TypeScript, Python, C, and C++**, and have working knowledge of **AWS, Docker, and Cloudflare**. I’m passionate about building **scalable, efficient, and high-quality software solutions**.
 
