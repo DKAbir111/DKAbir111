@@ -136,6 +136,60 @@ Business Automation Limited | 02/2024 - Present
 
 * Windows, Ubuntu, macOS, Red Hat Linux
 
+## 💻 Skills
+
+### 🎨 Front-End
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
+
+### ⚙️ Back-End
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+
+### 🧠 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge\&logo=amazonaws)
+
+### 🤖 AI & Modern Tech
+
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-0A192F?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-1E90FF?style=for-the-badge)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge)
+
 
 ---
 
