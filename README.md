@@ -173,11 +173,14 @@ Business Automation Limited | 02/2024 - Present
 1. **Web Development (MERN Stack)**  
    - Mastered the full web development spectrum, focusing on efficient coding, through **Programming Hero**.
 
-2. **Digital Product Management**  
+2. **Software Product Management**  
    - Customer Understanding, Market Analysis, Product Vision, Agile Development, Discovery, Optimization, Marketing, and Analytics.
 
 3. **SQA: Manual & Automated Testing**  
    - Expertise in testing tools like **Selenium**, **Postman**, **JMeter**, and automation frameworks like **TestNG**.
+  
+ 4. **Red Hat Certified System Administrator**  
+   - Red Hat System Administration I (RH124) and Red Hat System Administration II (RH134)**.
 
 ---
 
