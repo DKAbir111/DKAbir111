@@ -1,251 +1,331 @@
-# 👋 Hi, I'm **Darun Karas Abir**  
+<div align="center">
+  <img src="https://i.ibb.co.com/gV4TM69/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="Darun Karas Abir" width="100%" />
+</div>
 
-**CSE graduate** with a **CGPA of 3.9** and over **1.5 year of professional experience** in software development. I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, along with modern technologies like **Next.js, Nest.js, Prisma, and PostgreSQL**. Currently working as a **Software Engineer at Info Inlet (03/2025 – Present)**, where I take full ownership of the **Software Development Life Cycle (SDLC)**—from planning and architecture to development, testing, and deployment.
+<br/>
 
-I am proficient in **TypeScript, Python, C, and C++**, and have working knowledge of **AWS, Docker, and Cloudflare**. I’m passionate about building **scalable, efficient, and high-quality software solutions**.
+<div align="center">
 
+# 👋 Hi, I'm **Darun Karas Abir**
+### Software Engineer · Full-Stack Developer · MERN & Next.js Specialist
 
-![Profile Image](https://i.ibb.co.com/gV4TM69/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+**Building scalable, production-grade software — from architecture to deployment.**
 
-### 📍 Location: Dhaka, Bangladesh  
-📧 **Email**: [darunkaras28111@gmail.com](mailto:darunkaras28111@gmail.com)  
-📞 **Phone**: +8801994494143  
-🌐 **Portfolio**: [visionary-zuccutto-f34f8c.netlify.app](https://visionary-zuccutto-f34f8c.netlify.app)  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/darun-karas-abir-36a24339b](https://www.linkedin.com/in/darun-karas-abir-36a24339b/)  
-🐙 **GitHub**: [github.com/DKAbir111](https://github.com/DKAbir111)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4F46E5?style=for-the-badge)](https://visionary-zuccutto-f34f8c.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darun-karas-abir-36a24339b)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darunkaras28111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DKAbir111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DKAbir111)
+
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📞 +880 1994-494143
+
+</div>
 
 ---
 
-## 🎓 Education
+## 👨‍💻 About Me
 
-### **BSc in Computer Science & Engineering**  
-Daffodil International University | 01/2020 - 03/2024
-- Hands-on experience in data structures, algorithms, competitive programming (C, C++, Python, Java, JavaScript), AI, and Machine Learning.  
-- Active participation in the **Computer Programming Club** and **Natural Language Processing Club**.  
-- **CGPA**: 3.9
+CSE graduate from **Daffodil International University** with a **CGPA of 3.90/4.00** and **1.5+ years of professional experience** building full-stack applications. Currently a **Software Engineer at Info Inlet**, where I own the complete SDLC — from system design and architecture to development, testing, and deployment.
 
-### **Higher Secondary School Certificate (Science)**  
-Rashed Khan Menon Model School and College | 05/2017 - 06/2019  
-- **GPA**: 5.00
+I specialize in **TypeScript, React, Next.js, NestJS, and Express.js**, with hands-on experience in **PostgreSQL, MongoDB, Prisma, Redis, AWS SQS, Docker, and Cloudflare**. I've shipped **10+ production projects** for Japanese and international clients with **zero critical post-release issues**.
+
+I'm passionate about **AI integration, RAG-based systems, and building no-code/automation platforms** that multiply developer productivity.
+
+> *"Focused on building high-impact, scalable systems with clean and efficient code."*
 
 ---
 
 ## 💼 Professional Experience
 
-### **Software Engineer**
+### 🏢 Software Engineer — Info Inlet
+`03/2025 – Present` &nbsp;·&nbsp; Dhaka, Bangladesh
 
-**Info Inlet** | 03/2025 – Present
+**Tech Stack:** TypeScript · React.js · Next.js · NestJS · Express.js · Prisma · PostgreSQL · MongoDB · Redis · AWS SQS · Docker · OpenAI · Qdrant
 
-**Achievements / Responsibilities:**
-
-* 🚀 Owned the **full Software Development Life Cycle (SDLC)** — from **planning and architecture** to **development, testing, and deployment**
-* 💻 Built scalable applications using **TypeScript, React.js, Next.js, Express.js, NestJS**
-* 🗄️ Designed and managed databases with **PostgreSQL, MongoDB**, and **Prisma ORM**
-* 🌍 Delivered **10+ production-grade projects** with **zero critical post-release issues** for **Japanese and international users**
-* ⚡ Reduced **deployment time by 50%** through **AI-assisted code review** and performance optimization
-* 🧠 Developed innovative platforms:
-
-  * **FluxEz (No-code)** → enabled **10× faster software development**
-  * **Fluxtrun (Automation)** → automated **50% of repetitive workflows**
-  * **ProAtOnce (AI)** → increased **marketing reach by 50%**
-* 🛠️ Ensured code quality, scalability, and maintainability following **best engineering practices**
-* 🤝 Collaborated across teams and contributed to **efficient delivery in a fast-paced environment**
+**Key Achievements:**
+- 🚀 Owned **full SDLC** — planning, architecture, development, testing, and deployment
+- 📦 Delivered **10+ production-grade projects** with **zero critical post-release issues** for Japanese & international users
+- ⚡ Reduced **deployment time by 50%** through AI-assisted code review and performance optimization
+- 🔄 Cut development cycle time by **30–50%** through process and tooling improvements
+- 🧠 Built and shipped 3 flagship internal platforms:
+  - **FluxEz** (No-code platform) → enabled **10× faster** software development
+  - **Fluxturn** (AI Automation) → automated **50% of repetitive workflows**, 200+ app integrations
+  - **ProAtOnce** (AI Marketing Tool) → increased **marketing reach by 50%**
+- 🤝 Led a small team, collaborated cross-functionally in a fast-paced agile environment
 
 ---
 
-✨ *Focused on building high-impact, scalable systems with clean and efficient code.*
+### 🏢 Software Engineer Intern (Remote) — Business Automation Limited
+`06/2024 – 01/2025`
 
+**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Docker · Git · PHP · WordPress
 
-### **Software Engineer Intern (Remote)**  
-Business Automation Limited | 02/2024 - Present  
-**Achievements/Tasks**:  
-- Developed both **Frontend** and **Backend** features for various applications.
-- Assisted in **troubleshooting and debugging** issues, particularly in **REST API**.
-- Worked with **version control using Git** and **GitHub**.
-- Deployed web applications using **Docker**.
+**Key Achievements:**
+- Developed and maintained full-stack web applications using the MERN stack
+- Assisted in troubleshooting and debugging REST APIs
+- Contributed to code reviews and performance optimization
+- Deployed web applications using **Docker**
+- Worked with **Git & GitHub** for version control across a distributed team
 
-**Projects**:  
-1. **Panda Shopping**, **E-School**, **Project Support System**, **Country App**, **EasyTrip app**, **BDStore**  
-   - Technologies: HTML, CSS, JavaScript, PHP, Bootstrap5, Material UI, WordPress, ReactJS.
-
-2. **Peddy - Pet Adoption Platform**  
-   - Dynamic Pet Categories, Pet Liking and Adoption, Sort by Price, Responsive Design.  
-   - Technologies: Tailwind, DaisyUI, HTML, CSS, React.  
-   - [GitHub Link](#)
-
-3. **GadgetHeaven**  
-   - Features: React Router, Context API, React Hooks, React Toastify, React Icons, Recharts, React Rating, React Helmet, LocalStorage.  
-   - Technologies: Tailwind CSS, DaisyUI.  
-   - [GitHub Link](#)
-
-4. **Rinterio House Building App / Smart Ticketing**  
-   - Developed a fully responsive house design app with Tailwind, DaisyUI, React.  
-   - [Link](#)
-
-5. **BPL-DREAM-11**  
-   - Developed a **MERN stack** web app for Fantasy Cricket using **React**, **React Router**, **Context API**, **React Hooks**, **React Toastify**, **React Icons**, **Tailwind CSS**, **DaisyUI**.  
-   - [Live Link](#) | [GitHub Link](#)
-
-6. **Fitness Tracking App**, **Penguin Fashion**, **Panda Shopping**  
-   - Technologies: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, DaisyUI.  
-   - [Link](#)
+**Projects Delivered:**
+- Panda Shopping · E-School · Project Support System · Country App · EasyTrip · BDStore
 
 ---
 
-## 💻 Skills
+## 🚀 Projects
 
-### 🎨 Front-End
+### 🖥️ Deskive — Real-time Collaboration Platform
+> Next.js · TypeScript · NestJS · Prisma · PostgreSQL · Redis · Qdrant
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
+A real-time collaboration platform featuring **chat, video conferencing, project management, file sharing, and notes** — built to support **500+ concurrent users** with sub-300ms latency.
 
-### ⚙️ Back-End
+[![Live](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel)](https://deskive.com)
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+---
+
+### ⚡ FluxEz — Full-Stack No-Code IDE
+> React · TypeScript · NestJS · Prisma · PostgreSQL · AWS SQS · Qdrant · WebSocket · OpenAI · Cloudflare
+
+A browser-based full-stack IDE with **live preview, AI code assistant, visual editing, prompt-based editing**, and one-click deployment to Cloudflare.
+
+[![Live](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel)](https://fluxez.com)
+
+---
+
+### 🤖 Fluxturn — AI Automation Platform
+> NestJS · PostgreSQL · OpenAI · 200+ App Integrations
+
+An AI-powered automation platform with **200+ app integrations**, enabling complex multi-step workflows and reducing manual repetitive tasks by up to **60%**.
+
+[![Live](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square&logo=vercel)](https://fluxturn.com)
+
+---
+
+### 🏢 Homy — Building Management System
+> React · Node.js · Express · MongoDB · Stripe · Firebase · JWT · TailwindCSS
+
+Full-featured BMS for apartment & tenant management. Includes lease agreements, Stripe rent payments, coupon system, admin & member dashboards, and JWT-based role access control.
+
+[![Live](https://img.shields.io/badge/Live_Demo-4F46E5?style=flat-square)](https://building-management-f924c.web.app)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+### 🐾 Peddy — Pet Adoption Platform
+> React · TailwindCSS · DaisyUI
+
+Dynamic pet categories, liking & adoption system, sort by price, and fully responsive design.
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+### 🏏 BPL Dream 11 — Fantasy Cricket App
+> React · React Router · Context API · TailwindCSS · DaisyUI · React Toastify
+
+MERN-stack fantasy cricket platform with player selection, budget management, and live team stats.
+
+[![Live](https://img.shields.io/badge/Live-4F46E5?style=flat-square)](https://bpl-dream11.com)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+### 🛍️ GadgetHeaven — E-Commerce Platform
+> React · Context API · React Router · Recharts · LocalStorage · TailwindCSS · React Helmet
+
+Feature-rich gadget store with cart, wishlist, filtering, purchase history, and analytics charts.
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+### 🏠 Rinterio — House Design App
+> React · TailwindCSS · DaisyUI
+
+Fully responsive house design and interior showcase application with smart ticketing.
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+### 💪 Fitness Tracking App
+> React · Node.js · Express · MongoDB · TailwindCSS
+
+Workout tracker with exercise logging, progress stats, and personalized fitness plans.
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+### 🐼 Penguin Fashion & Panda Shopping
+> HTML · CSS · JavaScript · React · Node.js · Express · MongoDB · TailwindCSS
+
+E-commerce applications with product listing, cart management, and order handling.
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/DKAbir111)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A67D8?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer)
+
+### ⚙️ Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![REST API](https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge&logo=postman)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
 ### 🧠 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
 ### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
-![SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge\&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonaws)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 
 ### 🤖 AI & Modern Tech
-
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge\&logo=openai)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_DB-0A192F?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_LLM-412991?style=for-the-badge&logo=openai)
+![RAG](https://img.shields.io/badge/RAG_Systems-4B0082?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Qdrant_Vector_DB-0A192F?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-1E90FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+![Pixso](https://img.shields.io/badge/Pixso-7C3AED?style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge)
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 
+### 🧩 Concepts & Methodologies
+![Agile](https://img.shields.io/badge/Agile_SDLC-00A86B?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-0078D7?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FF6B35?style=for-the-badge)
 
 ---
 
-## 🌍 Extra-Curricular Activities
+## 📊 GitHub Stats
 
-1. **Competitive Programming**  
-   - Solved 200+ problems on online judges (URI, UVa, CodeForce).
-   
-2. **International Collegiate Programming Contest**  
-   - Team name: DIU_CodeAlap (2022).
+<div align="center">
 
-3. **DIU Computer Programming Club & NLP Club**  
-   - Executive Member | 01/2020 - Present.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DKAbir111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKAbir111&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-4. **TAKE-OFF Programming Contest**  
-   - Participant at Daffodil International University.
+</div>
 
-5. **Parliamentary Debating**  
-   - Debater (2014 - 2016). Focus on problem-solving, collaboration, and innovation.
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKAbir111&theme=tokyonight&hide_border=true)](https://github.com/DKAbir111)
+
+</div>
+
+---
+
+## 🎓 Education
+
+### BSc in Computer Science & Engineering
+**Daffodil International University** &nbsp;|&nbsp; `01/2020 – 03/2024`
+- **CGPA: 3.90 / 4.00**
+- Hands-on experience in **Data Structures, Algorithms, OOP, AI, and Machine Learning**
+- Proficient in **C, C++, Python, Java, JavaScript** through competitive programming
+- Active member of the **Computer Programming Club** and **NLP Club**
+
+### Higher Secondary Certificate (Science)
+**Rashed Khan Menon Model School and College** &nbsp;|&nbsp; `05/2017 – 06/2019`
+- **GPA: 5.00 / 5.00**
 
 ---
 
 ## 🏆 Training & Certifications
 
-1. **Web Development (MERN Stack)**  
-   - Mastered the full web development spectrum, focusing on efficient coding, through **Programming Hero**.
-
-2. **Software Product Management**  
-   - Customer Understanding, Market Analysis, Product Vision, Agile Development, Discovery, Optimization, Marketing, and Analytics.
-
-3. **SQA: Manual & Automated Testing**  
-   - Expertise in testing tools like **Selenium**, **Postman**, **JMeter**, and automation frameworks like **TestNG**.
-  
- 4. **Red Hat Certified System Administrator**  
-   - Red Hat System Administration I (RH124) and Red Hat System Administration II (RH134)**.
+| Certificate | Provider | Focus |
+|---|---|---|
+| **Web Development — MERN Stack** | Programming Hero | Full-stack development, React, Node.js, MongoDB |
+| **Digital Product Management** | Coursera | Agile, Roadmapping, Market Analysis, Growth, Analytics |
+| **SQA: Manual & Automated Testing** | Training Institute | Selenium, TestNG, JMeter, Postman, Newman |
+| **Red Hat Certified System Administrator** | Red Hat | RH124 (System Admin I) + RH134 (System Admin II) |
 
 ---
 
-## 🚀 Projects & Links
+## 🌍 Extra-Curricular Activities
 
-- **[Peddy - Pet Adoption Platform](#)**  
-- **[GadgetHeaven](#)**  
-- **[BPL-DREAM-11 (MERN Stack)](https://bpl-dream11.com)**  
-- **[Fitness Tracking App](#)**
+### 🏅 Competitive Programming
+- Solved **200+ problems** on **Codeforces, URI, and UVa** online judges
+- Strong foundation in algorithms, data structures, and problem-solving under pressure
 
----
+### 🏟️ International Collegiate Programming Contest (ICPC)
+- Represented Daffodil International University
+- Team name: **DIU_CodeAlap** (2022)
 
+### 💻 DIU Computer Programming Club & NLP Club
+- **Executive Member & Lab Assistant** — `01/2020 – Present`
+- Organized programming workshops and mentored junior students
 
-## 🔥 GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DKAbir111&theme=radical)](https://github.com/DKAbir111)
+### 🎤 Parliamentary Debating
+- Active debater from **2014 – 2016**
+- Developed strong communication, analytical, and problem-solving skills
 
----
-
-## 🚶‍♂️ Let's Connect
-
-Feel free to reach out to me on **[LinkedIn](https://linkedin.com/in/darun-karas-abir-48ba14212)** or through my **[Email](mailto:darun15-14188@diu.edu.bd)**.
-
----
-
-## 🏅 Badges  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)   ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white)  ![React Awesome Components](https://img.shields.io/badge/-React%20Awesome%20Component-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![REST API](https://img.shields.io/badge/-REST%20API-007ACC?style=for-the-badge&logo=postman&logoColor=white)  
-
-### **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-### **Tools**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
-
-### **Artificial Intelligence & Machine Learning**  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-102230?style=for-the-badge&logo=openai&logoColor=white)  
-
-### **Operating Systems**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+### 🏆 TAKE-OFF Programming Contest
+- Participant at Daffodil International University internal programming contest
 
 ---
 
-### 🏆 Achievements
+## 🔥 Fun Facts
 
-- 🏅 **Top Contributor** to open-source projects  
-- 🎯 **Consistent Contributor** (200+ commits/month)  
-- 🎓 **Certified in MERN Stack and Digital Product Management**
-
----
-
-### 🏆 Fun Fact
-
-- **🏅 Competitive Programmer**: Solved over **200+ problems** on platforms like **CodeForces**, **URI**, and **UVa**.  
-- **🎯 Passionate Debater**: A former **Parliamentary Debater**, always looking for innovative solutions.
+- 🧩 Solved **200+ competitive programming problems** across Codeforces, URI, UVa
+- 🚀 Shipped **10+ production apps** for international clients with zero critical failures
+- 🤖 Built a **no-code IDE** that enables 10× faster software development
+- 🎤 Former **Parliamentary Debater** — always arguing for better code architecture
+- 🐧 Comfortable on **Linux, MacOS, Windows, and Red Hat** environments
 
 ---
+
+<div align="center">
+
+### 🤝 Let's Build Something Great Together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darun-karas-abir-36a24339b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge)](https://visionary-zuccutto-f34f8c.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darunkaras28111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DKAbir111)
+
+*"Passionate about building high-impact, scalable systems with clean and efficient code."*
+
+</div>
